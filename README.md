@@ -1,2 +1,2 @@
-# Places
-Wordpress plugin for include information about places from Google Places or Foursquare.
+# WP Veneus
+Wordpress plugin for include information about venues from Google Places or Foursquare.

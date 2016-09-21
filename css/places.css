@@ -1,0 +1,28 @@
+#places-search .spinner {
+    visibility: visible;
+    float: left;
+    margin: 0 5px 0 0;
+}
+
+.places-info-box {
+    display: inline-block;
+}
+
+.places-img-box {
+    float: left;
+    width: 30%;
+    margin-right: 20px;
+}
+
+.places-img-box img{
+    width: 100%;
+}
+
+.places-info-box .places-info-desc {
+
+}
+
+.places-info-box .places-info-desc .title {
+    font-weight: bold;
+    font-size: 1.2em;
+}
