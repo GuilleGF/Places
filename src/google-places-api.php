@@ -1,7 +1,7 @@
 <?php
 
 //include the functions for calling google places
-require_once( dirname( __FILE__ ) . "/generic-api.php" );
+require_once(dirname(__FILE__) . "/generic-api.php");
 
 /**
  * Created by PhpStorm.
