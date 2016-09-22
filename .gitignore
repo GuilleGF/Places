@@ -17,3 +17,6 @@ wp-content/plugins/hello.php
 /license.txt
 
 .idea/
+vendor/
+composer.phar
+composer.lock
